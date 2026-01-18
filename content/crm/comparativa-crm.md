@@ -1,10 +1,23 @@
 ---
-title: "Comparativa de CRM: precios, funciones y RGPD (tabla)"
-disclosure: true
+title: "Comparativa de CRM: cuál elegir en 2026 (PYMES)"
+slug: "comparativa-crm"
+date: 2026-01-18
+description: "Comparativa rápida de CRM para PYMES en España. Precios, facilidad de uso, automatización e integraciones."
 ---
 
-**Nota:** Algunas posiciones pueden estar influenciadas por acuerdos de afiliación, pero no aceptamos pagos por “mejorar” puntuaciones.
+## Comparativa rápida
+Esta página resume los CRM más populares para PYMES. (En construcción)
 
-（ここに比較表を貼る：まずは10製品でOK）
+### Top CRM (Tier A)
+- Pipedrive
+- HubSpot CRM
+- Zoho CRM
+- Freshsales
+- monday CRM
 
-{{< cta href="https://example.com" >}}Probar gratis{{< /cta >}}
+## ¿Qué CRM elegir?
+- Si quieres facilidad de uso → Pipedrive
+- Si quieres marketing + CRM → HubSpot
+- Si quieres relación calidad/precio → Zoho
+- Si quieres CRM dentro de un suite → Freshsales
+- Si quieres flexibilidad tipo “tableros” → monday CRM
