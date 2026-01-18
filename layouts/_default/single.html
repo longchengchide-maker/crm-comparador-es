@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  {{ if .Params.disclosure }}{{ partial "disclosure.html" . }}{{ end }}
+  {{ .Content }}
+</article>
+{{ end }}

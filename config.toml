@@ -1,0 +1,7 @@
+baseURL = "https://crm-comparador-es.pages.dev/"
+languageCode = "es-es"
+title = "Comparador CRM España"
+enableRobotsTXT = true
+
+[params]
+description = "Comparativas y reviews de CRM para PYMES y autónomos en España."
