@@ -1,5 +1,6 @@
 ---
 title: "Pipedrive: opinión y review (pros, contras y para quién es)"
+disclosure: true
 slug: "pipedrive-opinion"
 date: 2026-01-18
 description: "Review de Pipedrive: ventajas, desventajas, precios y casos de uso para PYMES."
