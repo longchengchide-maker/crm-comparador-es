@@ -1,5 +1,6 @@
 ---
 title: "Mejores CRM para PYMES en España (Ranking 2026)"
+disclosure: true
 slug: "mejores-crm-pymes-espana"
 date: 2026-01-18
 description: "Ranking de los mejores CRM para PYMES en España. Recomendaciones por tamaño y necesidades."
@@ -16,3 +17,4 @@ description: "Ranking de los mejores CRM para PYMES en España. Recomendaciones 
 - Equipo pequeño: facilidad de uso y precio
 - Ventas B2B: pipeline claro y automatización
 - Necesitas marketing: CRM + email/automatizaciones
+
