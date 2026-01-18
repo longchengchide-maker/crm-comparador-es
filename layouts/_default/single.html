@@ -1,7 +1,15 @@
 {{ define "main" }}
 <article>
   <h1>{{ .Title }}</h1>
-  {{ if .Params.disclosure }}{{ partial "disclosure.html" . }}{{ end }}
+
+  {{ if .Params.disclosure }}
+    {{ partial "disclosure.html" . }}
+  {{ end }}
+
+  {{ with .Params.updated }}
+    <p class="muted"><b>Actualizado:</b> {{ . }}</p>
+  {{ end }}
+
   {{ .Content }}
 </article>
 {{ end }}
